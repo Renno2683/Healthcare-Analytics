@@ -101,7 +101,7 @@ healthcare-analytics/
 
 ## 👤 Author
 
-**Ranim** — Aspiring Data Analyst transitioning from Finance & Administration.
+**Ranim Chaar** - Aspiring Data Analyst transitioning from Finance & Administration.
 
 🔗 [LinkedIn](https://linkedin.com/in/ranim-c-07571836a) · 🐙 [GitHub](https://github.com/Renno2683)
 
