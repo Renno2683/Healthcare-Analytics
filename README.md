@@ -94,7 +94,7 @@ healthcare-analytics/
 
 | Tool | Link |
 |------|------|
-| Tableau Public | *(Add your published link here after completing the Tableau guide)* |
+| Tableau Public | https://prod-apsoutheast-a.online.tableau.com/t/ranimchaar-fab6b5205e/views/HospitalPatientAnalytics2022-2023_17773458520660/MonthlyAdmissions |
 | Power BI | *(Add your published link here if using Power BI Service)* |
 
 ---
