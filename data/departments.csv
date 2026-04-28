@@ -1,0 +1,8 @@
+department,bed_capacity,total_staff,target_wait_mins,target_los_days
+Emergency,50,25,30,2.0
+Cardiology,40,20,20,5.0
+Orthopaedics,35,18,40,5.0
+Oncology,30,15,20,7.0
+Neurology,30,15,30,4.0
+Paediatrics,25,14,15,3.0
+General Medicine,60,28,30,4.0
